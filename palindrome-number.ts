@@ -1,3 +1,4 @@
+// @ts-ignore
 function isPalindrome(x: number): boolean {
     if (x < 0) return false;
     if (x >= 0 && x < 10) return true;
